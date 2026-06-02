@@ -15,7 +15,7 @@ Week1 Project: The dataset used for this project was provided by Decode Labs. Th
 - Checking for duplicates
 - Columns standardisation
 - Date format transformation (yyy-MM-dd)
-    - ![Check Process Here]()
+    - ![Check Process Here](https://github.com/AdeoluBams/Decode_Project1/blob/main/EXCEL_KDY63v5uUe.png)
 - Coverting null values in the coupon column to "No Coupon"
 
 ## References
