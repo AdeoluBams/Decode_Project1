@@ -17,6 +17,7 @@ Week1 Project: The dataset used for this project was provided by Decode Labs. Th
 - Date format transformation (yyy-MM-dd)
     - ![Check Process Here](https://github.com/AdeoluBams/Decode_Project1/blob/main/EXCEL_KDY63v5uUe.png)
 - Coverting null values in the coupon column to "No Coupon"
+   - ![Check Process Here](https://github.com/AdeoluBams/Decode_Project1/blob/main/EXCEL_xYlTrVuDD0.png)
 
 ## References
 - [Stack Overflow](https://stackoverflow.com/)
