@@ -7,7 +7,7 @@ This is the Week 1 project at Decode Labs Internhip program. The task is to clea
 Week1 Project: The dataset used for this project was provided by Decode Labs. The Dataset is in the from "Dataset for Data Analytics_.xlsx"
 
 ## Tools
-Excel PowerQuery 
+- Excel PowerQuery 
     - [Download Here](https://www.microsoft.com/)
 
 ## Data Cleaning Process
@@ -15,7 +15,8 @@ Excel PowerQuery
 - Checking for duplicates
 - Columns standardisation
 - Date format transformation (yyy-MM-dd)
+    - ![Check Process Here]()
 - Coverting null values in the coupon column to "No Coupon"
 
 ## References
-- {Stack Overflow]
+- [Stack Overflow](https://stackoverflow.com/)
